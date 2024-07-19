@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://kiwify.app/qUeJO3A?afid=J5eX99ti/$1"
+ }
+  ]
+}
